@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 https://github.com/vercel/next.js/tree/canary/examples/app-dir-i18n-routing
 
+<img src="/screenshot/1.jpg" height="600em" />
